@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e01107fb10eae94eb53fcc67315cab9, type: 3}
+  m_Name: EnemyShips
+  m_EditorClassIdentifier: 
+  ships:
+  - size: 4
+    fieldsIDs: 50000000510000005200000053000000
+  - size: 3
+    fieldsIDs: 050000000600000007000000
+  - size: 3
+    fieldsIDs: 140000001500000016000000
+  - size: 2
+    fieldsIDs: 2b0000002c000000
+  - size: 2
+    fieldsIDs: 1b0000001c000000
+  - size: 2
+    fieldsIDs: 6200000063000000
+  - size: 1
+    fieldsIDs: 32000000
+  - size: 1
+    fieldsIDs: 60000000
+  - size: 1
+    fieldsIDs: 40000000
+  - size: 1
+    fieldsIDs: 3e000000
